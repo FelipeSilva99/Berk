@@ -58,6 +58,10 @@ ul {
     
 }
 
+.ul-bottom li:hover{
+    border-bottom: red 3px solid;
+}
+
 .container-header{
     display: flex;
     justify-content: space-around;
